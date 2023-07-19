@@ -2,7 +2,7 @@
 
 I'm Jeremy, a junior full-stack web developer coming from a career in fraud prevention. 
 
-I'm particularly interested in front-end development, and recently graduated from the Lighthouse Labs web development bootcamp. 
+I'm particularly interested in front-end development, and graduated from the Lighthouse Labs web development bootcamp in December 2022. I'm currently working as a junior full-stack developer at [CodeBusters](https://www.codebusters.ca/).
 
 ## Some things I'd like to learn next ⭐️
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
