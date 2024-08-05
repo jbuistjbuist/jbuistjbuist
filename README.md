@@ -1,8 +1,10 @@
 # Hi! 
 
-I'm Jeremy, a full-stack web developer with experience building modern web apps. Before becoming a web developer, I pursued a Master's in Sociology and worked in fraud prevention. 
+I'm Jeremy, a full-stack web developer with experience building modern web apps. Before becoming a web developer, I completed a Master's in Sociology and worked in fraud prevention. 
 
-I graduated from the Lighthouse Labs web development boot camp in December 2022, and since then I put my knowledge to use building workflow tools for my fraud prevention team, before coming on board as a contract full-stack developer for [CodeBusters](https://www.codebusters.ca/). 
+I graduated from the Lighthouse Labs web development boot camp in December 2022. Since then, I worked in the development team at CodeBusters building applications with React and Google Cloud Platform, and I have worked full-time as an independent contractor for my own clients. 
+
+I am currently open to new opportunities.
 
 ## Some things I'd like to learn next ⭐️
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
